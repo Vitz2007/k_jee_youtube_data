@@ -2,7 +2,7 @@
 Aggregated Youtube Data from [Ken Jee's channel](https://www.youtube.com/c/KenJee1)
 
 
-# Youtube Aggregated Data Visualization for Countries and Video Titles by Streamlit
+# Youtube Aggregated Data for Countries and Subscribers
 
 #### -- Project Status: [Completed]
 
