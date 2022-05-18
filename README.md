@@ -26,6 +26,11 @@ Data Visualization
 
 
 ## Project Description
+Youtuber Ken Jee, who is a Data Scientist, has kindly provided his [Youtube Data](https://www.kaggle.com/datasets/kenjee/ken-jee-youtube-data/download) to the community and followers for analysis and share insights on the number of subscribers, views, etc. 
+I enjoy watching up-and-coming Youtubers especially those making videos regarding programming and gadgets. This sparked my interest and motivated me to work with Ken's youtube data. Digging through youtube data can provide new insights which can help the youtuber grow their user base and what kind of videos increase subscribers.
 
 
+## Needs of this project
+- exploratory data analysis
+- data cleaning
 
