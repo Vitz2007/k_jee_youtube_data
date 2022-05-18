@@ -1,5 +1,5 @@
 # k_jee_youtube_data
-åggregated Youtube Data from [Ken Jee's channel](https://www.youtube.com/c/KenJee1)
+Aggregated Youtube Data from [Ken Jee's channel](https://www.youtube.com/c/KenJee1)
 
 
 # Youtube Aggregated Data Visualization for Countries and Video Titles by Streamlit
