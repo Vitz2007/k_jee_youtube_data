@@ -10,13 +10,16 @@ Aggregated Youtube Data from [Ken Jee's channel](https://www.youtube.com/c/KenJe
 #### -- Project Status: [Completed]
 
 
+
 ## Project Intro/Objective
 The aim of this project was to uncover which country the views came from, which videos were popular, common keywords in video titles, and whether subscribed users resulted in more likes or dislikes. 
+
 
 
 ### Methods Used
 Exploratory Data Analysis
 Data Visualization
+
 
 
 ### Technologies
@@ -28,15 +31,18 @@ Data Visualization
 * WordCloud
 
 
+
 ## Project Description
 Youtuber Ken Jee, who is a Data Scientist, has kindly provided his [Youtube Data](https://www.kaggle.com/datasets/kenjee/ken-jee-youtube-data/download) to the community and followers for analysis and share insights on the number of subscribers, views, etc. 
 I enjoy watching up-and-coming Youtubers, especially those making videos regarding programming and gadgets. This sparked my interest and motivated me to work with Ken's youtube data. Digging through youtube data can provide new insights which can help the youtuber grow their user base and what kind of videos increase subscribers.
+
 
 
 ## Needs of this project
 - exploratory data analysis
 - data cleaning
 - SEO for video titles
+
 
 
 ## Getting started
