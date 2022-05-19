@@ -46,6 +46,6 @@ I enjoy watching up-and-coming Youtubers, especially those making videos regardi
 
 
 ## Getting started
-1. Load csv [Country & Subscriber file](Aggregated_Metrics_By_Country_And_Subscriber_Status.csv) into IDE.
+1. Load csv [Country & Subscriber file](https://github.com/Vitz2007/k_jee_youtube_data/blob/main/data/Aggregated_Metrics_By_Country_And_Subscriber_Status.csv) into IDE.
 2. Explore data and rename column names to lowercase with underscore, as well as remove unnecessary null values.
 3. Create visuals showing correlation and popularity from the data.
